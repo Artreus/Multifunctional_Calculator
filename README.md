@@ -34,7 +34,7 @@ Each of the last three functions is divided in more.
 .Speed\
 .Time\
 .Power\
-.Data\
+.Data
 
 Usage: To use the calculator .exe itself simply download the .rar file then go to
 MultifunctionalCalculator.rar\MultifunctionalCalculator\bin\Debug and double-click
