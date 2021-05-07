@@ -7,7 +7,7 @@ Description: This calculator has a lot of functions the four main ones being:
 simple standard calculator, solving arithmethic formulas, solving geometrical formulas and converting units.
 Each of the last three functions is divided in more.
 
-1)Arithmethic Calculator:
+1)Arithmethic Calculator:\
 .Quadratic Equation
 .Abbreviated Multiplication Formula
 .Fibonacci Sequence
