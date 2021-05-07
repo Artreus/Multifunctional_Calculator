@@ -1,3 +1,5 @@
+#Multifunctional Calculator
+
 Project: This is a Multifunctional Calculator. I have made it in two days with 
 the purpose being to test my begginer programming knowledge.
 This calculator is nothing serious and it probably has bugs but I will fix
